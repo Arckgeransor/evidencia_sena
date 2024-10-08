@@ -1,2 +1,3 @@
 
 Hola, soy el archivo Proyecto1.txt y este es mi contenido de la primera linea.
+Hola, soy una segunda linea del archivo Proyecto1.txt
